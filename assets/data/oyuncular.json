@@ -1,0 +1,84 @@
+[
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "drogsheets",
+        "puan": 1750,
+        "zaman": "7 gün",
+        "mod": true
+    },
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "parimaharj",
+        "puan": 1046,
+        "zaman": "1 gün",
+        "mod": false
+    },
+    {
+        
+        "taraf": "S",
+        "oyuncu_adi": "J2006459",
+        "puan": 2082,
+        "zaman": "1 gün",
+        "mod": true
+    },
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "Taru_sh",
+        "puan": 2271,
+        "zaman": "3 gün",
+        "mod": true
+    },
+    {
+        
+        "taraf": "S",
+        "oyuncu_adi": "SHAGABTHAN2013",
+        "puan": 1699,
+        "zaman": "2 gün",
+        "mod": false
+    },
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "mozhanhgc",
+        "puan": 1000,
+        "zaman": "5 gün",
+        "mod": true
+    },
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "Winuchess",
+        "puan": 1356,
+        "zaman": "3 gün",
+        "mod": false
+    },
+    {
+        
+        "taraf": "B",
+        "oyuncu_adi": "ganesh221315",
+        "puan": 2865,
+        "zaman": "3 gün",
+        "mod": true
+    },
+    {
+        
+        "taraf": "S",
+        "oyuncu_adi": "Parimi",
+        "puan": 859,
+        "zaman": "1 gün",
+        "mod": false
+    },
+    {
+        
+        "taraf": "F",
+        "oyuncu_adi": "mroseman",
+        "puan": 1350,
+        "zaman": "7 gün",
+        "mod": true
+    }
+    
+    
+]
